@@ -16,7 +16,7 @@ In this notebook, we perform sentiment analysis on text using the Hugging Face T
 
 This notebook showcases the use of a distilled GPT-2 model to create a dialogue between two chatbots. We explore how to generate conversational text using a smaller and more efficient version of the GPT-2 model, making it accessible for dialogue generation tasks.
 
-**Notebook:** [Dialogue Generation with Distilled GPT-2](notebooks/Shakespearian_Dialog.ipynb)
+**Notebook:** [Dialogue Generation with Distilled GPT-2](Shakespearian_Dialog.ipynb)
 
 ## Getting Started
 
