@@ -1,4 +1,3 @@
-Sure, here's a nicely formatted README.md for your GitHub repository:
 
 # Large Language Models Exploration
 
