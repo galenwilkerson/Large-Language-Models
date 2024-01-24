@@ -10,7 +10,7 @@ This repository contains a collection of notebooks exploring the capabilities of
 
 In this notebook, we perform sentiment analysis on text using the Hugging Face Transformers library. We utilize a pre-trained model to classify text into different sentiment categories, demonstrating how to leverage state-of-the-art natural language processing models for sentiment analysis tasks.
 
-**Notebook:** [Sentiment Analysis with Hugging Face](notebooks/Sentiment_Analysis_with_Hugging_Face.ipynb)
+**Notebook:** [Sentiment Analysis with Hugging Face](Simple Sentiment Analysis using Hugging Face Pre-Trained LLM.ipynb)
 
 ### 2. Dialogue Generation with Distilled GPT-2
 
