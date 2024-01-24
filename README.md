@@ -10,13 +10,13 @@ This repository contains a collection of notebooks exploring the capabilities of
 
 In this notebook, we perform sentiment analysis on text using the Hugging Face Transformers library. We utilize a pre-trained model to classify text into different sentiment categories, demonstrating how to leverage state-of-the-art natural language processing models for sentiment analysis tasks.
 
-**Notebook:** [Sentiment Analysis with Hugging Face](Simple Sentiment Analysis using Hugging Face Pre-Trained LLM.ipynb)
+**Notebook:** [Sentiment Analysis with Hugging Face](Sentiment_Analysis.ipynb)
 
 ### 2. Dialogue Generation with Distilled GPT-2
 
 This notebook showcases the use of a distilled GPT-2 model to create a dialogue between two chatbots. We explore how to generate conversational text using a smaller and more efficient version of the GPT-2 model, making it accessible for dialogue generation tasks.
 
-**Notebook:** [Dialogue Generation with Distilled GPT-2](notebooks/Dialogue_Generation_with_Distilled_GPT-2.ipynb)
+**Notebook:** [Dialogue Generation with Distilled GPT-2](notebooks/Shakespearian_Dialog.ipynb)
 
 ## Getting Started
 
